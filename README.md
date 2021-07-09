@@ -98,3 +98,4 @@ need to complete the following tasks:
 
 1. Add a getter and setter method for the instance variable `@name`.
 2. Add a getter and setter method for the instance variable `@job`.
+# Phase3SetterAndGetter
